@@ -4,4 +4,4 @@ Dealing with everything from wearable electronics to machine learning, and every
 
 Headed by [Prof. Sougata Sen](https://www.bits-pilani.ac.in/goa/sougata-sen) at BITS Pilani, K. K. Birla Goa Campus.
 
-![Sense Lab Logo](/assets/SenseLabLogo.svg)
+![Sense Lab Logo](/assets/SenseLabLogo.png)
