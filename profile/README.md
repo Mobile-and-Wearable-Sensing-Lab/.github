@@ -1,4 +1,4 @@
-# Sense Lab
+# Sensing, Embedded, Networking and Software Engineering Lab @ BITS Goa
 
 Dealing with everything from wearable electronics to machine learning, and everything in between.
 
